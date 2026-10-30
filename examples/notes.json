@@ -1,0 +1,5 @@
+[
+  {"title":"What would change your mind?","note":"Before looking for supporting evidence, write down one observation that would make you reconsider. Give doubt a proper seat at the table.","tags":["truth","research"]},
+  {"title":"What breaks quietly?","note":"Find the part of a system that can fail without telling anyone. That is where the next useful health check belongs.","tags":["systems","observability"]},
+  {"title":"Could this be one good file?","note":"Before adding a service, a database and three dependencies, ask what the smallest useful artifact could be. This cabinet is my answer for today.","tags":["craft","simplicity"]}
+]
